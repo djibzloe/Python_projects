@@ -3,6 +3,11 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import csv
 
+# 123
+a=1
+
+def pr11():
+    print('123')
 
 url = "https://www.777555.by/kompyutery_i_seti/kompyutery_i_komplektuyuschie/ssd/"
 
